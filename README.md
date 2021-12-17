@@ -9,22 +9,22 @@ Basic knowledge of Blockchain, Etherium and Cryptography, so that we can perform
 And those who are willing to work with me on this project seriously, will have to learn the following technologies as per their interest.
 
 For front-end:-
-photoshop
-HTML 
-CSS
-JavaScript
-React.js
+photoshop,
+HTML, 
+CSS,
+JavaScript,
+React.js.
 
 For back-end:-
-Node.js
-npm packages
+Node.js,
+npm packages.
 
-Solidity- to create Smart Contracts 
-Ganache- to setup local blockchain network
-Truffle- development env on EVM 
-Metamask- used to access your wallet on the ethereum by web browser through an extension
+Solidity- to create Smart Contracts,
+Ganache- to setup local blockchain network,
+Truffle- development env on EVM, 
+Metamask- used to access your wallet on the ethereum by web browser through an extension.
 
-Web3js- library which allows you to connect to local or remote ethereum node using HTTP/Web sockets
+Web3js- library which allows you to connect to local or remote ethereum node using HTTP/Web sockets.
 
-Visual Studio Code- IDE for the front-end development 
-Remix- IDE to start with the basic setup in the browser itself 
+Visual Studio Code- IDE for the front-end development. 
+Remix- IDE to start with the basic setup in the browser itself. 
