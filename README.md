@@ -1,3 +1,6 @@
+
+It is an E-Voting web application system based on Ethereum Blockchain Technology
+
 # VotingBlocks
 As we know,
 We r going to make an e-voting Application (web)- "VotingBlocks"
