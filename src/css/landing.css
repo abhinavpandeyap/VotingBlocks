@@ -1,0 +1,38 @@
+body {
+  font-family: 'Arimo', serif!important;
+}
+
+
+
+.main-navigation {
+  float: right;
+}
+
+.jumbotron{
+  position: relative;
+  background-image: url("https://images.cointelegraph.com/images/717_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81YmE5MzAwNzY3NGZkNzdhZDZmODk3MGE5OTg4YmI2Zi5qcGc=.jpg");
+  background-size: 100% 100%;
+}
+
+h2{
+  text-shadow: 2px 2px 5px red;
+}
+h3{
+  text-shadow: 2px 2px 5px rgb(1, 3, 66);
+}
+
+#votingPage{
+  margin-top:95px;
+}
+
+#blockvote-card{
+  -webkit-box-shadow: 3px 10px 44px 0px rgba(222,222,222,1);
+  -moz-box-shadow: 3px 10px 44px 0px rgba(222,222,222,1);
+  box-shadow: 3px 10px 44px 0px rgba(222,222,222,1);
+  margin: 0px auto!important;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
