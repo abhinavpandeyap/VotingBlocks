@@ -34,6 +34,8 @@ Web3js- library which allows you to connect to local or remote ethereum node usi
 
 Visual Studio Code- IDE for the front-end development. 
 
+Remix- IDE to start with the basic setup in the browser itself. 
+
 
 
 **#Follow these steps to run the Application:-**
@@ -65,4 +67,4 @@ Visual Studio Code- IDE for the front-end development.
   and Metamask is connected to the site.
 
 
-Remix- IDE to start with the basic setup in the browser itself. 
+
